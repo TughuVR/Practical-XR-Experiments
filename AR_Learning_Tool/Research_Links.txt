@@ -1,0 +1,3 @@
+https://www.soft8soft.com/docs/manual/en/puzzles/Materials.html#materials_set_value
+
+https://www.soft8soft.com/docs/manual/en/puzzles/Scenes.html#raycast
