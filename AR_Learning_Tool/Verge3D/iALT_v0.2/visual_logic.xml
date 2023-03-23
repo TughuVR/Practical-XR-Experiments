@@ -1,7 +1,7 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <tab name="init" type="InitTab" active="false" scrollx="20" scrolly="0" scale="0.9"></tab>
-  <tab name="main" type="MainTab" active="true" scrollx="-11.681949615478516" scrolly="174.01582908630377" scale="0.9070294784580498">
-    <block xmlns="https://developers.google.com/blockly/xml" type="whenHovered" id="/f^)9)s*%8r%ZyIv+2AS" inline="false" x="190" y="-170">
+  <tab name="main" type="MainTab" active="true" scrollx="-172.3356009070294" scrolly="-40.00684356689436" scale="0.9070294784580498">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenHovered" id="/f^)9)s*%8r%ZyIv+2AS" inline="false" x="190" y="-30">
       <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
       <field name="X_RAY">FALSE</field>
       <value name="VALUE">
@@ -73,12 +73,12 @@
         </block>
       </statement>
     </block>
-    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="Yexd1HsQ+|3Y14@xOcl/" inline="false" x="230" y="450">
-      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="Yexd1HsQ+|3Y14@xOcl/" inline="true" x="190" y="310">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="true" enableifmissed="false"></mutation>
       <field name="X_RAY">FALSE</field>
       <field name="DOUBLE_CLICK">FALSE</field>
-      <field name="LEFT_BUTTON">TRUE</field>
-      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="LEFT_BUTTON">FALSE</field>
+      <field name="MIDDLE_BUTTON">FALSE</field>
       <field name="RIGHT_BUTTON">TRUE</field>
       <value name="VALUE">
         <shadow type="objectList" id="%76#0V6^xgGp/tqM[cUf">
@@ -98,6 +98,50 @@
             <shadow type="objectList" id="!j9wnHUV-?CuX5}pjmJ3">
               <field name="FIELDNAME">empty_Skull</field>
             </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="H$Z.j!gfTv;^TF+8eX1W" inline="true" x="190" y="490">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="true" enableifmissed="true"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">FALSE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">FALSE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="rohgB6Jtd8I~+]G=s^`$">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+        <block type="allObjectList" id="nT;^U2!jng/!1gsh9;r9"></block>
+      </value>
+      <statement name="DO">
+        <block type="hide" id="K|dK;[;ci%Go|)}83BQy">
+          <value name="VALUE">
+            <shadow type="objectList" id="s;%AYwtj$yUCuh,J!b]2">
+              <field name="FIELDNAME">&lt;none&gt;</field>
+            </shadow>
+            <block type="allObjectList" id="{ky!*9evTzWHK}T(bzc*"></block>
+          </value>
+          <next>
+            <block type="show" id="?~YOr|9(=F#Ck@m[eIa)">
+              <value name="VALUE">
+                <shadow type="objectList" id="pD[=Iq_0Ca,}$UuK`Z[F">
+                  <field name="FIELDNAME">&lt;none&gt;</field>
+                </shadow>
+                <block type="pickedObject" id="G9SMIP:;0t{S/8W7~bnN"></block>
+              </value>
+            </block>
+          </next>
+        </block>
+      </statement>
+      <statement name="IF_MISSED_DO">
+        <block type="show" id=":Vz2QAp*)6$E#ZOLO4:R">
+          <value name="VALUE">
+            <shadow type="objectList" id="pD[=Iq_0Ca,}$UuK`Z[F">
+              <field name="FIELDNAME">&lt;none&gt;</field>
+            </shadow>
+            <block type="allObjectList" id="nG3)$f*]#xfgIpo_=C|;"></block>
           </value>
         </block>
       </statement>
