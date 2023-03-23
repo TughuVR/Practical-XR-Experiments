@@ -1,0 +1,411 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="20" scrolly="20" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="true" scrollx="-206.822888444294" scrolly="101.37218064699982" scale="0.8227024747918817">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenHovered" id="/f^)9)s*%8r%ZyIv+2AS" inline="false" x="130" y="150">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="fSJU~a*AWQHe_-n{es8g">
+          <field name="FIELDNAME">Skull</field>
+        </shadow>
+      </value>
+      <statement name="DO_OVER">
+        <block type="outline" id="@2f4cqrcaeQ|]8sC^Cw^">
+          <field name="DO_WHAT">ENABLE</field>
+          <value name="TARGET">
+            <shadow type="objectList" id="P9WA+n{2W2[QjsJh_6ng">
+              <field name="FIELDNAME">Skull</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+      <statement name="DO_OUT">
+        <block type="outline" id="MDm$JzsC[~R[*db+RS,z">
+          <field name="DO_WHAT">DISABLE</field>
+          <value name="TARGET">
+            <shadow type="objectList" id="TnC9^y1bU2+BjML;bR$8">
+              <field name="FIELDNAME">Skull</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+      <next>
+        <block type="whenHovered" id="2D#Vn91-lB$l={Nj*Iqk" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id="Nadtzb$wE0s%6jmCkvB@">
+              <field name="FIELDNAME">Torso</field>
+            </shadow>
+          </value>
+          <statement name="DO_OVER">
+            <block type="outline" id="/5+Em2sR846;1S-OC6uE">
+              <field name="DO_WHAT">ENABLE</field>
+              <value name="TARGET">
+                <shadow type="objectList" id="5sl)%yX;I!zzMKmJcye{">
+                  <field name="FIELDNAME">Torso</field>
+                </shadow>
+              </value>
+            </block>
+          </statement>
+          <statement name="DO_OUT">
+            <block type="outline" id="N1ow@M(Rl~GU(sV;Pk-+">
+              <field name="DO_WHAT">DISABLE</field>
+              <value name="TARGET">
+                <shadow type="objectList" id="-F2GkZ+a0TSA?xF)$P_t">
+                  <field name="FIELDNAME">Torso</field>
+                </shadow>
+              </value>
+            </block>
+          </statement>
+          <next>
+            <block type="whenHovered" id="S[:r-d.uSy(GerK{v_Vi" inline="false">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+              <field name="X_RAY">FALSE</field>
+              <value name="VALUE">
+                <shadow type="objectList" id="~Y/2.!sMPe/+T5XA;{ts">
+                  <field name="FIELDNAME">UpperArm_R</field>
+                </shadow>
+              </value>
+              <statement name="DO_OVER">
+                <block type="outline" id="/tPT5j{#XGIq//+fIQJ_">
+                  <field name="DO_WHAT">ENABLE</field>
+                  <value name="TARGET">
+                    <shadow type="objectList" id="iJp=f;#+v9y$pg{!MB7@">
+                      <field name="FIELDNAME">UpperArm_R</field>
+                    </shadow>
+                  </value>
+                </block>
+              </statement>
+              <statement name="DO_OUT">
+                <block type="outline" id="n?[@|_)6Dld=v1PF~e`1">
+                  <field name="DO_WHAT">DISABLE</field>
+                  <value name="TARGET">
+                    <shadow type="objectList" id=".#W#H649YEl[y(FP-s67">
+                      <field name="FIELDNAME">UpperArm_R</field>
+                    </shadow>
+                  </value>
+                </block>
+              </statement>
+              <next>
+                <block type="whenHovered" id=")p~1=#wLxyHCn@Oq:y%E" inline="false">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                  <field name="X_RAY">FALSE</field>
+                  <value name="VALUE">
+                    <shadow type="objectList" id="d2I^6IO0Td?Gd{Wj5tKE">
+                      <field name="FIELDNAME">LowerArm_R</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO_OVER">
+                    <block type="outline" id="@y:i:dB2qr=M%yxv:isd">
+                      <field name="DO_WHAT">ENABLE</field>
+                      <value name="TARGET">
+                        <shadow type="objectList" id="Co/VL]mE4LjWXdE;6Ll:">
+                          <field name="FIELDNAME">LowerArm_R</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </statement>
+                  <statement name="DO_OUT">
+                    <block type="outline" id="q9Zk!k9|W$|9SDc@kG[4">
+                      <field name="DO_WHAT">DISABLE</field>
+                      <value name="TARGET">
+                        <shadow type="objectList" id="8_DC)5fRQGu|;,cO;$@{">
+                          <field name="FIELDNAME">LowerArm_R</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </statement>
+                  <next>
+                    <block type="whenHovered" id="2`2[TPAX/C@H{~uT]oGq" inline="false">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                      <field name="X_RAY">FALSE</field>
+                      <value name="VALUE">
+                        <shadow type="objectList" id="gi{/aK-0H.AR4qR9_.HR">
+                          <field name="FIELDNAME">UpperArm_L</field>
+                        </shadow>
+                      </value>
+                      <statement name="DO_OVER">
+                        <block type="outline" id="cxu,`@OV32dWF{M51$%1">
+                          <field name="DO_WHAT">ENABLE</field>
+                          <value name="TARGET">
+                            <shadow type="objectList" id="lOw{cN{5Rno:E1m#IJuX">
+                              <field name="FIELDNAME">UpperArm_L</field>
+                            </shadow>
+                          </value>
+                        </block>
+                      </statement>
+                      <statement name="DO_OUT">
+                        <block type="outline" id="~UD::k-,dHNN#)0IyDC3">
+                          <field name="DO_WHAT">DISABLE</field>
+                          <value name="TARGET">
+                            <shadow type="objectList" id="~3sD-.ZIOWq*6bzz{/;+">
+                              <field name="FIELDNAME">UpperArm_L</field>
+                            </shadow>
+                          </value>
+                        </block>
+                      </statement>
+                      <next>
+                        <block type="whenHovered" id="}Va3{eI(khEEkpwLd5Mk" inline="false">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                          <field name="X_RAY">FALSE</field>
+                          <value name="VALUE">
+                            <shadow type="objectList" id="zy0:(}XVG!eO:A+Dn:[7">
+                              <field name="FIELDNAME">LowerArm_L</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO_OVER">
+                            <block type="outline" id="aZ5bLFG7Pg=NAP`GlFTf">
+                              <field name="DO_WHAT">ENABLE</field>
+                              <value name="TARGET">
+                                <shadow type="objectList" id="FkqCyAF]9MgN[HK9;51Q">
+                                  <field name="FIELDNAME">LowerArm_L</field>
+                                </shadow>
+                              </value>
+                            </block>
+                          </statement>
+                          <statement name="DO_OUT">
+                            <block type="outline" id="5)I|vIJGuDhVO{u[K@3p">
+                              <field name="DO_WHAT">DISABLE</field>
+                              <value name="TARGET">
+                                <shadow type="objectList" id="i-[8+J7{BSETpxv?2d4l">
+                                  <field name="FIELDNAME">LowerArm_L</field>
+                                </shadow>
+                              </value>
+                            </block>
+                          </statement>
+                          <next>
+                            <block type="whenHovered" id="(VIiRFnlbl+4@zSnYDrp" inline="false">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                              <field name="X_RAY">FALSE</field>
+                              <value name="VALUE">
+                                <shadow type="objectList" id="u9w?LL9(Z[Od+vOMl-:+">
+                                  <field name="FIELDNAME">Upperleg_R</field>
+                                </shadow>
+                              </value>
+                              <statement name="DO_OVER">
+                                <block type="outline" id="nw!*{uMtm|b-Cn88nOBT">
+                                  <field name="DO_WHAT">ENABLE</field>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="m_X_RPAR`iwTdGB?oAlb">
+                                      <field name="FIELDNAME">Upperleg_R</field>
+                                    </shadow>
+                                  </value>
+                                </block>
+                              </statement>
+                              <statement name="DO_OUT">
+                                <block type="outline" id="]=I[I*X2]g#@1ManrQ2P">
+                                  <field name="DO_WHAT">DISABLE</field>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="f!}G15Y)TgfxxVT+i!qS">
+                                      <field name="FIELDNAME">Upperleg_R</field>
+                                    </shadow>
+                                  </value>
+                                </block>
+                              </statement>
+                              <next>
+                                <block type="whenHovered" id="Rfd5VM#whgjb53(CH#H!" inline="false">
+                                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                                  <field name="X_RAY">FALSE</field>
+                                  <value name="VALUE">
+                                    <shadow type="objectList" id="N8qZY)X5K/)SpsWR?[by">
+                                      <field name="FIELDNAME">Lowerleg_R</field>
+                                    </shadow>
+                                  </value>
+                                  <statement name="DO_OVER">
+                                    <block type="outline" id="Zh,W{7k7i9HgT^RJ9r5}">
+                                      <field name="DO_WHAT">ENABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="tuVyTf6-BH6C~fi[mU$D">
+                                          <field name="FIELDNAME">Lowerleg_R</field>
+                                        </shadow>
+                                      </value>
+                                    </block>
+                                  </statement>
+                                  <statement name="DO_OUT">
+                                    <block type="outline" id="2d=lfM}K:V*`Uk?e-J/m">
+                                      <field name="DO_WHAT">DISABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="yZL-43mDnBb5L@Z.FIWG">
+                                          <field name="FIELDNAME">Lowerleg_R</field>
+                                        </shadow>
+                                      </value>
+                                    </block>
+                                  </statement>
+                                  <next>
+                                    <block type="whenHovered" id=")kg7eEU0*iT]/Q!E+[Ii" inline="false">
+                                      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                                      <field name="X_RAY">FALSE</field>
+                                      <value name="VALUE">
+                                        <shadow type="objectList" id=";9[1@`h{+PC*+%)iwYXK">
+                                          <field name="FIELDNAME">Foot_R</field>
+                                        </shadow>
+                                      </value>
+                                      <statement name="DO_OVER">
+                                        <block type="outline" id="9w[#d8$KeYW@e@XlR@XV">
+                                          <field name="DO_WHAT">ENABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="E1{z/cXd8^i$n?G^k|Pv">
+                                              <field name="FIELDNAME">Foot_R</field>
+                                            </shadow>
+                                          </value>
+                                        </block>
+                                      </statement>
+                                      <statement name="DO_OUT">
+                                        <block type="outline" id="`RPe+u^%nkvX.ukZ$H{P">
+                                          <field name="DO_WHAT">DISABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="U3rz*%j~SrZ=71$vr[@X">
+                                              <field name="FIELDNAME">Foot_R</field>
+                                            </shadow>
+                                          </value>
+                                        </block>
+                                      </statement>
+                                      <next>
+                                        <block type="whenHovered" id="=5A/%!TY2bHm$6oTeQ4P" inline="false">
+                                          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                                          <field name="X_RAY">FALSE</field>
+                                          <value name="VALUE">
+                                            <shadow type="objectList" id="g}{VbvHVFL$f-{Qn^48@">
+                                              <field name="FIELDNAME">Upperleg_L</field>
+                                            </shadow>
+                                          </value>
+                                          <statement name="DO_OVER">
+                                            <block type="outline" id="i-@r`YYAL4IgvQC;`.D#">
+                                              <field name="DO_WHAT">ENABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id="PFC@zZ5#LijuKj,dgaA-">
+                                                  <field name="FIELDNAME">Upperleg_L</field>
+                                                </shadow>
+                                              </value>
+                                            </block>
+                                          </statement>
+                                          <statement name="DO_OUT">
+                                            <block type="outline" id="Z$|Mixao8B[R-TNA_6zl">
+                                              <field name="DO_WHAT">DISABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id="Ve5X4jy4;teI,3klJ9e!">
+                                                  <field name="FIELDNAME">Upperleg_L</field>
+                                                </shadow>
+                                              </value>
+                                            </block>
+                                          </statement>
+                                          <next>
+                                            <block type="whenHovered" id="IE{M9,8WlB[i_C2}=}#}" inline="false">
+                                              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                                              <field name="X_RAY">FALSE</field>
+                                              <value name="VALUE">
+                                                <shadow type="objectList" id="d8EUz|BN1+E+|LGLxXy]">
+                                                  <field name="FIELDNAME">Lowerleg_L</field>
+                                                </shadow>
+                                              </value>
+                                              <statement name="DO_OVER">
+                                                <block type="outline" id=")O9l?Mz-^WM}k,p@stxp">
+                                                  <field name="DO_WHAT">ENABLE</field>
+                                                  <value name="TARGET">
+                                                    <shadow type="objectList" id="QGK_?uK[xqQ#LO:;ws%q">
+                                                      <field name="FIELDNAME">Lowerleg_L</field>
+                                                    </shadow>
+                                                  </value>
+                                                </block>
+                                              </statement>
+                                              <statement name="DO_OUT">
+                                                <block type="outline" id="D{{$C6UtN0KoFupkz`VA">
+                                                  <field name="DO_WHAT">DISABLE</field>
+                                                  <value name="TARGET">
+                                                    <shadow type="objectList" id="3Ib+S{#C[u6r~IJCpGrd">
+                                                      <field name="FIELDNAME">Lowerleg_L</field>
+                                                    </shadow>
+                                                  </value>
+                                                </block>
+                                              </statement>
+                                              <next>
+                                                <block type="whenHovered" id="LQ_msKj5iiU:*Dl,Led;" inline="false">
+                                                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                                                  <field name="X_RAY">FALSE</field>
+                                                  <value name="VALUE">
+                                                    <shadow type="objectList" id="Z+uWT@wg:ras#{@3d5=z">
+                                                      <field name="FIELDNAME">Foot_L</field>
+                                                    </shadow>
+                                                  </value>
+                                                  <statement name="DO_OVER">
+                                                    <block type="outline" id="d!+3[av9_|R^(_uJTH,9">
+                                                      <field name="DO_WHAT">ENABLE</field>
+                                                      <value name="TARGET">
+                                                        <shadow type="objectList" id="C%v/gEj2wS`j]vd?,~yO">
+                                                          <field name="FIELDNAME">Foot_L</field>
+                                                        </shadow>
+                                                      </value>
+                                                    </block>
+                                                  </statement>
+                                                  <statement name="DO_OUT">
+                                                    <block type="outline" id="szdg3qu^5.PS!b|d]hJl">
+                                                      <field name="DO_WHAT">DISABLE</field>
+                                                      <value name="TARGET">
+                                                        <shadow type="objectList" id="ZhjB0C9@pX%~7nSRkRra">
+                                                          <field name="FIELDNAME">Foot_L</field>
+                                                        </shadow>
+                                                      </value>
+                                                    </block>
+                                                  </statement>
+                                                </block>
+                                              </next>
+                                            </block>
+                                          </next>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </next>
+                                </block>
+                              </next>
+                            </block>
+                          </next>
+                        </block>
+                      </next>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="j}dA-maNb!VnrPQm9=TY" inline="false" x="790" y="190">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="98y7AfszUjN!{IDi2}A|">
+          <field name="FIELDNAME">Skull</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="dragMove" id="nHtvNU)L]di3qP[Jf5Ld">
+          <field name="MODE">XYZ</field>
+          <value name="TARGETOBJ">
+            <shadow type="objectList" id="k_uTD9ARU1=?*_/:%BwZ">
+              <field name="FIELDNAME">Skull</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="dragRotate" id="YXZWwGG(j*KZXJR*HcS]">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" enablespace="false"></mutation>
+              <field name="AXIS">X</field>
+              <field name="SPACE_TYPE">PARENT</field>
+              <value name="TARGETOBJ">
+                <shadow type="objectList" id="4UC!h3;~8~EvC,^!xAIz">
+                  <field name="FIELDNAME">Skull</field>
+                </shadow>
+              </value>
+            </block>
+          </next>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="955.8" viewport-y="28" viewport-w="649.2" viewport-h="458.5" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
