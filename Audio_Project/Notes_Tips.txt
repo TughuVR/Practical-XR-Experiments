@@ -1,0 +1,48 @@
+Audio files have noise so remove noise
+but audio files are very low - increase volume for editing purposes
+ then remoive noise using - Cuckos effects
+
+Audio files are long - cut down to useable size
+
+Re-adjust volume to production quality
+
+Confirm balance for audio quality
+
+Apply effects (for desired result)
+
+Re-check balance and volume for production quality
+
+
+What you learnt from that process - during and after research
+
+Research resource
+Remove Noise - https://www.youtube.com/watch?v=XIFtSQ_Iyzo
+
+
+
+
+-------------------------------------------------------------
+Click - Sound_Cupboard_01 && Cupboard_02
+Select and drag - Sound_Radiator_02 ! Slide_Jacket_04 ! Slide_Mic_01 ! Slide_Trousers_01      
+Hide
+Unhide
+Hover - Slide_Door_01 ! TrashTin
+Background sound - Amb_Sound_fridge_01
+------------------
+
+Fridge_Door_01
+Knife_02
+
+Pop_Mouth_02
+
+
+Workings:
+
+Increase Volume to hear
+
+
+
+
+
+
+
