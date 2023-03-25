@@ -22,11 +22,11 @@ Remove Noise - https://www.youtube.com/watch?v=XIFtSQ_Iyzo
 
 
 -------------------------------------------------------------
-Click - Sound_Cupboard_01 && Cupboard_02
-Select and drag - Sound_Radiator_02 ! Slide_Jacket_04 ! Slide_Mic_01 ! Slide_Trousers_01      
+Click - Sound_Cupboard_01 && Cupboard_02 - [DONE]
+Select and drag - Sound_Radiator_02 ! Slide_Jacket_04 ! Slide_Mic_01 ! Slide_Trousers_01      - [DONE]
 Hide
 Unhide
-Hover - Slide_Door_01 ! TrashTin
+Hover - Slide_Door_01 ! TrashTin - [DONE]
 Background sound - Amb_Sound_fridge_01
 ------------------
 
@@ -39,6 +39,17 @@ Pop_Mouth_02
 Workings:
 
 Increase Volume to hear
+
+Exported sound it wasn't sounding loud enough
+so changed volume control settings in preference - Under appreance and mdeia section I changed the [item volume handle: from +0dB is top of  item to +0dB is center of item]. that changed the volume control from the top place the volume control line in the middle. With this I was able to increase the volume beyond the limits of the previous control. Allowing me get louder sound I could hear for my work.
+
+Disabled grid lines to allow the tracks to slide on the tinmeline to I could adjust it as I wanted.
+
+Adjusted the volume to each item so they could blend nicely together.
+
+Included a clipping sound but at a reduced volume.
+
+Reduced master volume to -9.64dB. I don't want it too loud in the app.
 
 
 
