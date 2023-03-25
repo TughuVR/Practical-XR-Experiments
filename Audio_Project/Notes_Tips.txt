@@ -22,11 +22,11 @@ Remove Noise - https://www.youtube.com/watch?v=XIFtSQ_Iyzo
 
 
 -------------------------------------------------------------
-Click - Sound_Cupboard_01 && Cupboard_02 - [DONE]
-Select and drag - Sound_Radiator_02 ! Slide_Jacket_04 ! Slide_Mic_01 ! Slide_Trousers_01      - [DONE]
+Click - Sound_Cupboard_01 && Cupboard_02				 - [DONE]
+Select and drag - Sound_Radiator_02 ! Slide_Jacket_04 ! Slide_Mic_01 ! Slide_Trousers_01      							 - [DONE]
 Hide
 Unhide
-Hover - Slide_Door_01 ! TrashTin - [DONE]
+Hover - Slide_Door_01 ! TrashTin 					 - [DONE]
 Background sound - Amb_Sound_fridge_01
 ------------------
 
