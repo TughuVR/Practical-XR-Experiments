@@ -27,7 +27,7 @@ Select and drag - Sound_Radiator_02 ! Slide_Jacket_04 ! Slide_Mic_01 ! Slide_Tro
 Hide
 Unhide
 Hover - Slide_Door_01 ! TrashTin 					 - [DONE]
-Background sound - Amb_Sound_fridge_01
+Background sound - Amb_Sound_fridge_01  				 - [DONE]
 ------------------
 
 Fridge_Door_01
